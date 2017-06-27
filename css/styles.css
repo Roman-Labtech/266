@@ -13,3 +13,10 @@
 .statusbar-overlay {
     background: #000000;
 }
+
+
+.icon-settings{
+    display: block!important;
+    float: left!important;
+    margin-top: -3px!important;
+	padding-right: 5px!important;}
